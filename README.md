@@ -23,29 +23,37 @@ I'm currently expanding my expertise in **AI and Generative AI**, exploring how 
 <h2>🛠 Tech Stack:</h2>
 
 **Languages & Frameworks:**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=fff) 
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=fff) 
-![Spark](https://img.shields.io/badge/Spark-FDEE21?logo=apache-spark&logoColor=000) 
+Python, SQL, PySpark, Bash, Django
 
 **Big Data & Processing:**  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=000) 
-![Hive](https://img.shields.io/badge/Hive-FDEE21?logo=apache-hive&logoColor=000) 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=fff) 
+Apache Spark, Hadoop, Hive, Airflow
 
-**Cloud & DevOps:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff)  
+**Databases & Storage:**  
+PostgreSQL, MySQL, NoSQL, Data Lakes
+
+**DevOps & Tools:**  
+Git, GitHub Actions, CI/CD, Jupyter, VS Code
+
+**Cloud & Platforms:**  
+Azure (basic), Linux
 
 **Data Tools & Visualization:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)
-
+Pandas, Jupyter
 
 
 <h2>🤖 Learning & Building in AI:</h2>
 
 I'm actively learning and building real-world AI projects — from **prompt engineering** to **generative models** and **ML pipelines**. Open to contributions and collaborations in AI, data science, and scalable backend architecture.
 
+
+
+<h2>🎯 Focus Areas:</h2>
+
+- ✅ Data Engineering & Automation  
+- ✅ Backend Development & APIs  
+- ✅ Data Quality, Governance, and Security  
+- ✅ AI Integration with Real-World Use Cases  
+- ✅ Continuous Learning & Mentorship
 
 
 <h2>📫 Let's Connect:</h2>
